@@ -1,4 +1,4 @@
-# U.S. Medical Insurance Costs - Data Analysis
+# U.S. Medical Insurance Costs - Data Analysis Project
 
 The project has been made in the scope of my training at Codecademy.com.
 
