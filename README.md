@@ -21,6 +21,7 @@ I propose to analyze the data through the 3 following topics:
 
 + python
 + pandas
++ seaborn, matplotlib
 
 ### Launch
 
